@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ABULQOSIMRafiqov
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning TelegramBotAPI.
+- 🌱 I’m currently learning Aiogram.
 - 📫 How to reach me @https://t.me/RafiqovAbulqosim02
 
 <!---
